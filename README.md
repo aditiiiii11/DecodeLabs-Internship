@@ -2,30 +2,6 @@
 
 This repository contains the projects completed during the DecodeLabs UI/UX Design Industrial Training Program.
 
-## Week 1 – The Empathy Map
-
-### Problem Statement
-
-A fitness startup wanted to launch an app for busy office professionals who struggle to find time for exercise.
-
-### Objectives
-
-* Define the target audience
-* Create User Personas
-* Build an Empathy Map
-* Understand user needs, goals, and frustrations
-
-### Deliverables
-
-* User Persona
-* Empathy Map
-
-### Tools Used
-
-* Canva
-
----
-
 ## Week 2 – The Blueprint (Wireframing)
 
 ### Problem Statement
@@ -73,4 +49,4 @@ Aditi Singh
 
 ## Internship
 
-DecodeLabs UI/UX Design Industrial Training Program – Batch 2026
+DecodeLabs UI/UX Design Batch 2026
