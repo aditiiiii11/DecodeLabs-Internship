@@ -42,6 +42,13 @@ An e-commerce platform was experiencing customer drop-offs due to a cluttered la
 ### Deliverables
 
 * E-commerce Homepage Wireframe
+ 
+* ## Figma Design Link
+
+View the complete design here:
+
+https://www.figma.com/design/hBzZUiF2xOuJ5dBt1yLezr/DecodeLabs-Week-2?node-id=0-1&t=HLjNsQt0cnkrZcpA-1
+
 
 ### Tools Used
 
